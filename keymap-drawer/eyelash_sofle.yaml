@@ -56,13 +56,13 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - LANG1
   - $$mdi:apple-keyboard-command$$
+  - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - {t: \, s: '|'}
-  - $$mdi:apple-keyboard-option$$
   - $$mdi:mouse-left-click-outline$$
   - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
   - $$mdi:keyboard-space$$
+  - {t: ']', s: '}'}
   - {t: '-', s: _}
   - {t: '=', s: +}
   LAYER1:
