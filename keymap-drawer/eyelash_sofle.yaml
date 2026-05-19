@@ -56,7 +56,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - LANG1
   - $$mdi:apple-keyboard-command$$
-  - $$mdi:apple-keyboard-option$$
+  - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
   - {t: \, s: '|'}
   - $$mdi:mouse-left-click-outline$$
